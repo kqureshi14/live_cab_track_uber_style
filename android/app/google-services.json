@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002894227971",
+    "project_id": "customers-app-efbd6",
+    "storage_bucket": "customers-app-efbd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002894227971:android:9b4dabd653785210792c36",
+        "android_client_info": {
+          "package_name": "com.example.live_tracking_uber_style"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuDLkswGYbqBU9pVrNC4rvpZbzxaTZO3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
